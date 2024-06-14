@@ -1,0 +1,20 @@
+{
+  "name": "png-to-pdf",
+  "version": "2.0.0",
+  "description": "A simple PNG to PDF converter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "png",
+    "pdf",
+    "converter"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pdf-lib": "^1.17.1",
+    "sharp": "^0.30.0"
+  }
+}

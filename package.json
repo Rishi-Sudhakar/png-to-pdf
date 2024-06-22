@@ -16,5 +16,12 @@
   "dependencies": {
     "pdf-lib": "^1.17.1",
     "sharp": "^0.30.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rishi-Sudhakar/png-to-pdf.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   }
 }
